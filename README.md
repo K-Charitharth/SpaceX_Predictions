@@ -1,6 +1,6 @@
 # SpaceX Rocket Landing Prediction
 
-![SpaceX]([spacex_logo.png](https://www.bing.com/ck/a?!&&p=f005e639209beb09JmltdHM9MTY5MzQ0MDAwMCZpZ3VpZD0xMjcyMTFiOS1kM2IzLTYzZmQtMmE3Mi0wMDg2ZDI0NDYyNDgmaW5zaWQ9NTc1MA&ptn=3&hsh=3&fclid=127211b9-d3b3-63fd-2a72-0086d2446248&u=a1L2ltYWdlcy9zZWFyY2g_cT1zcGFjZSBYIGxvZ28mRk9STT1JUUZSQkEmaWQ9MTQ0MEE0OTg2OEI3N0RDQUJBNEIyQzRBOUY2OTVDNTQ3RUQzRUE0RA&ntb=1))
+![SpaceX]([spacex_logo.png](images/SpaceX.png)
 
 Predicting the success and reusability of SpaceX rocket landings using Machine Learning techniques.
 
