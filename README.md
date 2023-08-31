@@ -2,11 +2,11 @@
 
 ![SpaceX](spacex_logo.png)
 
-Predicting the success and reusability of SpaceX rocket landings using Machine Learning techniques.
+Predicting the success and reusability of SpaceY rocket landings using Machine Learning techniques.
 
 ## Overview
 
-This project focuses on predicting the success and reusability of SpaceX rocket landings through the application of various Machine Learning algorithms. The dataset is collected from SpaceX's API and web scraping methods. The project involves data preprocessing, exploratory analysis, interactive visualization, and predictive modeling.
+This project focuses on predicting the success and reusability of SpaceY rocket landings through the application of various Machine Learning algorithms. The dataset is collected from SpaceX's API and web scraping methods. The project involves data preprocessing, exploratory analysis, interactive visualization, and predictive modeling.
 
 ## Project Highlights
 
@@ -24,7 +24,24 @@ This project focuses on predicting the success and reusability of SpaceX rocket 
 
 - **Performance Metrics**: Achieved high performance metrics such as Jaccard Score and F1 Score, demonstrating the effectiveness of the predictive models.
 
-## Usage
+## Project Structure
 
-1. Clone the repository:
+- `data_collection/`: Contains scripts for data collection using SpaceX API and web scraping.
+- `data_preprocessing/`: Includes data preprocessing and wrangling scripts.
+- `data_analysis/`: Contains SQL analysis and exploratory data analysis scripts.
+- `visualization/`: Includes scripts for creating interactive maps and dashboards.
+- `modeling/`: Contains predictive modeling scripts using various Machine Learning algorithms.
+- `utils/`: Includes utility scripts for data processing and visualization.
+- `requirements.txt`: Lists all the required dependencies.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contributors
+
+- Kothakota Charitharth
+
+Feel free to contribute, provide feedback, or report issues.
+
 
